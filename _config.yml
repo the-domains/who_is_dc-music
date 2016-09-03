@@ -1,41 +1,41 @@
-name: Who is DC music
-favicon: null
-layout_spectrum: 0.75748
-typography_spectrum: 1
-title: Who Is DC Music
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.75748
+title: Who Is DC Music
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.8447987
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#414141'
     - '#808080'
     - '#D0D0D0'
-  brandStrength: 0.5
   lightness: 0.02854612
-  saturation: 0.5
-  rhythmicContrast: 0.8447987
 purpose: []
+favicon: null
+name: Who is DC music
+typography_spectrum: 1
